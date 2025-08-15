@@ -31,7 +31,7 @@ calculate.addEventListener("click", function(){
 			result = "Inalid operator"
 	}
 	
-	document.getElementById("result").textContent = "Result = " + result;
+	document.getElementById("result").textContent = result;
 	
 })
 
